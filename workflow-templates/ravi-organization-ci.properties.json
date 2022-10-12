@@ -1,0 +1,7 @@
+{
+        "name": "Gaur Organization Workflow",
+        "Description": "Gaur Organization CI Starter workflow.",
+        "iconeName": "example-icon",
+        "categories": [ "Go" ],
+        "filepatterns": [ "package.json$","^Dockerfile",".*\\.md$" ]
+}
